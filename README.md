@@ -21,4 +21,4 @@ Would you like to find me?
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rhayner-rossmann-25aa781bb/)](https://www.linkedin.com/in/rhayner-rossmann-25aa781bb/)
 
 
-[![Mario Souto's github stats](https://github-readme-stats.vercel.app/api?username=RhaynerRS](https://github.com/felipefialho)
+[![Rhayner(https://github-readme-stats.vercel.app/api?username=RhaynerRS](https://github.com/felipefialho)
