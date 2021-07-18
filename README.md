@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Rhayner Rossmann, and I'm from Brazil :brazil:, I am currently studying at IFES Campus Colatina, in the IT technician course integrated with high school, I am currently attending the IFES Campus Colatina, in the technical course of computer science integrated to high school, where I learned the basics of programming and fell in love, since then I have been trying to improve myself more and more and learning more and more
+My name is Rhayner Rossmann, and I'm from Brazil :brazil:, I am currently attending the IFES Campus Colatina, in the technical course of computer science integrated to high school, where I learned the basics of programming and fell in love, since then I have been trying to improve myself more and more and learning more and more
 
 Would you like to find me?
 
