@@ -73,7 +73,7 @@ Desenvolvedor Full Stack Sênior apaixonado por engenharia de software e arquite
       &nbsp;&nbsp;&nbsp;&nbsp;
       <img
         height="180"
-        src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=RhaynerRS&layout=compact&custom_title=Tecnologias&langs_count=9&theme=react"
+        src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=RhaynerRS&layout=compact&custom_title=Tecnologias&langs_count=5&theme=react"
       />
     </div>
 </p>
